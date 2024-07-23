@@ -25,9 +25,15 @@ Throughout my career, I've had the opportunity to work on projects ranging from 
 
 I am a strong advocate for free and open-source software. I love collaborating on community projects, sharing knowledge, and learning from other developers.
 
-- Contributions to Open Source Projects
-- Maintaining Personal GitHub Repository with useful tools and scripts for the community
-
+- Contributions to Open Source Projects:
+  - [**Pay Calculator**](https://github.com/sandralopez/pay_calculator)
+  - [**Vim Dadbod UI**](https://github.com/kristijanhusak/vim-dadbod-ui)
+  - [**N8N Nodes Oracle**](https://github.com/jdu74/n8n-nodes-oracle)
+  - [**Translate Subs**](https://github.com/Montvydas/translatesubs)
+- Maintaining Personal GitHub Repository with useful tools and scripts for the community:
+  - [**Neovim Live Share**](https://github.com/azratul/live-share.nvim)
+  - [**Shoulder Surfing Protector**](https://github.com/azratul/ssp)
+  - [**GraphQL API Maker**](https://github.com/azratul/graphql-api-maker)
 
 ## How to Reach Me 📫
 
