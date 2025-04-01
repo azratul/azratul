@@ -32,6 +32,7 @@ I am a strong advocate for free and open-source software. I love collaborating o
   - [**Translate Subs**](https://github.com/Montvydas/translatesubs)
 - Maintaining Personal GitHub Repository with useful tools and scripts for the community:
   - [**Neovim Live Share**](https://github.com/azratul/live-share.nvim)
+  - [**Expose Localhost**](https://github.com/azratul/expose-localhost.nvim)
   - [**Shoulder Surfing Protector**](https://github.com/azratul/ssp)
   - [**GraphQL API Maker**](https://github.com/azratul/graphql-api-maker)
 
